@@ -40,3 +40,5 @@
 您的
 <a href = "https://www.binance.com/zh-CN/square/post/8444102048321">币安账户注册</a>
 完成后，您可以通过下载手机APP，在手机上进行买币等操作。
+
+本文链接：https://github.com/tianyakk/binance_reg_1
